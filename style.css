@@ -1,0 +1,153 @@
+.body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+:root{
+ --color-line:#E6E6E6;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 40px;
+}
+.top{
+    width:1145px;
+    margin: 0 auto;
+    height: 103px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.logo{
+    width: 120px;    
+}
+
+.separator-line{
+    border-bottom: 1px solid var( --color-line);
+    height: 1px;
+    width: 100%;
+   
+} 
+
+.separator-line2{
+    border-bottom: 1px solid var( --color-line);
+    height: 1px;
+    width: 640px;
+    margin: 20px 0;
+}
+
+.separator-line3{
+    border-bottom: 1px solid var( --color-line);
+    height: 1px;
+    width: 640px;
+}
+
+.content{
+    width:1145px;
+    margin: 0 auto;
+    margin-top: 30px;
+    display: flex;
+    gap: 1px;
+    height: 800px;
+}
+
+.linkmenu{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #0a1bb3;
+}
+
+
+.news-s1{
+    width: 75%;
+    height: 190px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.news-se{
+    height: 650px;
+    width: 240px;
+    margin: 0 auto;
+    justify-items: center;
+    align-items: center;
+}
+
+.news-sshow{
+    height: 650px;
+    width: 240px; 
+    margin: 0 auto;
+    justify-items: center; 
+}
+
+.vertical-separator{
+    width: 1px;
+    height: 700px;
+    background-color: var(--color-line)
+}
+
+.new{
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 55px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.new-top{
+font-size: 48px;
+font-weight: bold;
+}
+
+.news-secondary{
+max-width: 190px; 
+
+}
+
+.text-new-secondary{ 
+    margin-bottom: 10px;
+    }
+
+.text-new{ 
+    margin-bottom: 10px;
+    justify-content:space-between ;
+    }
+
+.news-secondary-top{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    }
+.new-secondary-top2{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+strong{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+p{
+    font-size: 13px;  
+}
+.new-secondary img{
+    height: 118px;
+    width: 200px;
+    border-radius: 4px;
+    
+}
+
+.new img{
+    height: 118px;
+    width: 200px;
+    border-radius: 4px;
+   
+}

@@ -1,0 +1,35 @@
+Primeiro passo: analisar e fazer as divs (caixas)
+
+reset css -  criar esse arquivo para zerar a configuração automatica
+
+width:largura
+height: altura
+left: esquerda
+right: direita
+
+margin: margem
+margin: 0 auto;  -margem automatica para todos os lados
+
+border: borda / solid: solido
+
+
+display: flex  - esse elemento se torna um flex (podemos manipular todos os elementos filhos desse flex )
+
+font-weight: peso da fonte
+background: fundo
+color: cor
+
+align-itens:alinha os itens dentro de um container flex ao longo do eixo cruzado (perpendicular).
+
+justify-content: alinha os itens dentro de um container flex o longo do eixo principal.
+
+text-decoration: tirar decoraçao do texto
+
+gap: definir o espaçamento e a medianiz do chamador entre as linhas e colunas
+
+strong: O elemento HTML <strong> dá ao texto uma forte importância, e é tipicamente mostrado em negrito.
+
+
+
+
+
